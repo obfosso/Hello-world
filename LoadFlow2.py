@@ -35,6 +35,8 @@ teta1 = 0.0
 teta2 = 0.0
 teta3 = 0.0
 
+tt1 = 0.0
+
 g12 = gij(r12, x12)
 b12 = bij(r12, x12)
 g13 = gij(r13, x13)
