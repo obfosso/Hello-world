@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Minor change
 
 def z(r,x):
     return complex(r,x)
@@ -33,6 +34,9 @@ v3 = 1.0
 teta1 = 0.0
 teta2 = 0.0
 teta3 = 0.0
+
+tt1 = 0.0
+tt2 =2
 
 g12 = gij(r12, x12)
 b12 = bij(r12, x12)
