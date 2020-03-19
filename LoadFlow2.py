@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Minor change
 
 def z(r,x):
     return complex(r,x)
